@@ -1,3 +1,3 @@
-# Delineacion_de_Software_con_TDD
+# Delineación de Software con TDD
 
 Ejercicio 2 de la semana 3 de MissionNodeJS LaunchX
